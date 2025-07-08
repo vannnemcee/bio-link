@@ -43,11 +43,12 @@ body {
 }
 
 .my-app {
-  width: 10rem;
-  border-radius: 50%;
+  padding: 0.5rem;
+  border-radius: 10px;
   aspect-ratio: 1/1;
-  object-fit: cover;
-  object-position: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 a {
