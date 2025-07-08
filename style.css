@@ -42,6 +42,14 @@ body {
   object-position: top;
 }
 
+.my-app {
+  width: 10rem;
+  border-radius: 50%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  object-position: top;
+}
+
 a {
   text-decoration: none;
   color: inherit;
